@@ -1,0 +1,7 @@
+https://www.waterstreetcompany.com/wp-content/uploads/2019/04/banner-billing.jpg
+
+ <div className="billimg">
+                    <img src={image} alt="Billing" />
+
+
+                </div> 

@@ -1,0 +1,9 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sidebyside{
+    display: flex;
+    align-items: center;
+    padding-left: 370px;
+
+}

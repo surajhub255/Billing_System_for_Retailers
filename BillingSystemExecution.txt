@@ -1,0 +1,23 @@
+a) Port of backend: 9091
+b) Port of frontend: 5173
+ 
+c) Import of ReacJS libraries:
+ 
+$npm create vite@latest project
+$npm i formik
+$npm i axios
+$npm i react-router-dom
+ 
+[Material UI]
+-------------
+ 
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+ 
+d) Login credentials:
+ 
+Admin: Id : 11
+        password: Hello@1234
+Staff: Id : 10
+          password: Hello@1234

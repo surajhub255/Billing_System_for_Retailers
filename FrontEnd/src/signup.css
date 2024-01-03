@@ -1,0 +1,25 @@
+.signbox{
+    align-items: center;
+    padding: 70px;
+    box-shadow: inset;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box {
+    background-color: rgb(217, 249, 249,0.8);
+padding: 20px;
+margin-left: 300px;
+    margin-top: 50px;
+    margin-right: 190px;
+    padding-bottom: 40px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.textstyle{
+    color:black;
+}
+
+.side-textbox{
+    display: flex;
+    padding-left: 30px;
+    
+}
